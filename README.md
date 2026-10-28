@@ -15,7 +15,7 @@
 ```text
 PLAYER   : Bucoy
 CLASS    : Backend Developer / IT Infrastructure (in training)
-LEVEL    : University student
+LEVEL    : University Bakrie student
 QUEST    : Land a paid internship in backend or infrastructure
 CURRENT  : Building secure, deployable projects for my portfolio
 ```
@@ -31,7 +31,7 @@ I build backend systems with a focus on **security, clean structure, and deploya
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Node.js, Express, JWT, Passport.js, Swagger, HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, MongoDB, MySQL, Prisma, Redis, OAuth, TOTP MFA, rate limiting, Cloudflare Tunnel" width="100%">
+  <img src="assets/stack.svg" alt="Node.js, Express, JWT, Passport.js, Swagger, HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Java, Python, Dart, Flutter, MongoDB, MySQL, Prisma, Redis, OAuth, TOTP MFA, rate limiting, Cloudflare Tunnel" width="100%">
 </p>
 
 <p align="center">
@@ -48,12 +48,6 @@ A production-minded authentication service with a React client.
 - Hardening: rate limiting, XSS and NoSQL-injection protection, Helmet, structured logging with Winston, Swagger API docs
 
 **Stack:** Node.js · Express · MongoDB · Redis · React 19 · Vite · Tailwind CSS · shadcn/ui · Zustand
-
-### [NusaChain](https://github.com/USERNAME/REPO)
-
-A full-stack agroindustry supply chain platform designed for small island contexts, delivered across four RAD phases.
-
-**Stack:** Next.js (App Router) · TypeScript · Tailwind CSS · shadcn/ui · MySQL · Prisma
 
 <p align="center">
   <img src="assets/h-contact.svg" alt="Contact" width="100%">
