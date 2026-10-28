@@ -1,9 +1,3 @@
-<!--
-  SETUP: rename USERNAME / REPO / email / LinkedIn / portfolio placeholders below.
-  This file must live in a PUBLIC repo named exactly like your GitHub username,
-  together with the assets/ folder.
--->
-
 <p align="center">
   <img src="assets/banner.svg" alt="Bucoy — Backend and Infrastructure" width="100%">
 </p>
@@ -60,12 +54,6 @@ A production-minded authentication service with a React client.
   &nbsp;
   <a href="https://YOUR-PORTFOLIO.example.com"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="60"></a>
 </p>
-
-<!-- Optional: live stats (uses a third-party service; remove if you prefer a fully static profile)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats">
-</p>
--->
 
 <p align="center">
   <img src="assets/footer.svg" alt="Thanks for visiting" width="100%">
