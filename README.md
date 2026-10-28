@@ -48,11 +48,11 @@ A production-minded authentication service with a React client.
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="assets/btn-email.svg" alt="Email" height="60"></a>
+  <a href="mailto:ijlalrafifalbukhari@gmail.com"><img src="assets/btn-email.svg" alt="Email" height="60"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="60"></a>
+  <a href="https://www.linkedin.com/in/Ijlal Rafif Al Bukhori"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="60"></a>
   &nbsp;
-  <a href="https://YOUR-PORTFOLIO.example.com"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="60"></a>
+  <a href="https://blombikin.example.com"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="60"></a>
 </p>
 
 <p align="center">
